@@ -4,8 +4,7 @@ The website showcases my skills, projects, and contact information as a front-en
 
 ## Live Website
 You can view the live website here:
-
-
+       https://arati-senapati.github.io/Portfolio/
 ## Features
 - Responsive design for mobile, tablet, and desktop
 - Modern hero section with background image
